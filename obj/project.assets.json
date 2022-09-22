@@ -776,11 +776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\工作\\【TDX】專案\\gPRCService\\GrpcService1\\GrpcService1.csproj",
+      "projectUniqueName": "D:\\工作\\【TDX】專案\\mqttgrpchook\\GrpcService1.csproj",
       "projectName": "GrpcService1",
-      "projectPath": "D:\\工作\\【TDX】專案\\gPRCService\\GrpcService1\\GrpcService1.csproj",
+      "projectPath": "D:\\工作\\【TDX】專案\\mqttgrpchook\\GrpcService1.csproj",
       "packagesPath": "C:\\Users\\2205010\\.nuget\\packages\\",
-      "outputPath": "D:\\工作\\【TDX】專案\\gPRCService\\GrpcService1\\obj\\",
+      "outputPath": "D:\\工作\\【TDX】專案\\mqttgrpchook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages",

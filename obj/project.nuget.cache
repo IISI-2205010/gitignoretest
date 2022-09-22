@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FIGuPphqPt2PdEUnTLw6W+ygfF80ifSvxNELHq4VPk6xDLbArIM5SwSJllTG5pbuSYsstFd+8I+vifm5IUDbOg==",
+  "dgSpecHash": "KPrSooIBBvWBOs45j1oQeV2SdLA3ftEqSUvz7sxDs56t/vXxglcezzjUEQXEXfZJ0BsWTBMv5TJJ/y0+8DFC1w==",
   "success": true,
-  "projectFilePath": "D:\\工作\\【TDX】專案\\gPRCService\\GrpcService1\\GrpcService1.csproj",
+  "projectFilePath": "D:\\工作\\【TDX】專案\\mqttgrpchook\\GrpcService1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2205010\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
     "C:\\Users\\2205010\\.nuget\\packages\\grpc.aspnetcore\\2.34.0\\grpc.aspnetcore.2.34.0.nupkg.sha512",
