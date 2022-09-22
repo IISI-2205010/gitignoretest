@@ -1,0 +1,4 @@
+[submodule "Data.Rbac"]
+	path = Data.Rbac
+	url = ../../../shared/data.rbac.git
+

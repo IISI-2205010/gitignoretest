@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Exhook.cs \
+obj\Debug\net5.0\Protos/ExhookGrpc.cs: Protos/exhook.proto
